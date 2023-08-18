@@ -1,6 +1,7 @@
-![Sample GIF](https://github.com/Khayrulbuet13/Khayrulbuet13/raw/main/Images/github_intro.gif)
+![Sample GIF](https://github.com/Khayrulbuet13/Khayrulbuet13/raw/main/Images/Intro.gif)
 
-
+<!-- ![Sample GIF](Images/Intro.png)
+![Sample GIF](Images/Intro.gif) -->
 
 ### Hello there 👋 I'm Khayrul
 
