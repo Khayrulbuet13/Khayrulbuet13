@@ -10,7 +10,6 @@
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Graduate research assistant at [Bio-Nano Interface lab](https://wordpress.lehigh.edu/bionano/)
-- 🎓 Ph.D. candidate in Mechanical Engineering at Lehigh University
-- 👨‍💻 I work on machine learning based microfluidic computer vision and design optimization
-
+- 🔬 Postdoctoral Researcher at [Lawrence Livermore National Laboratory](https://www.llnl.gov/)
+- 🎓 Ph.D. in Mechanical Engineering from Lehigh University
+- 👨‍💻 Advancing ML-driven computer vision pipelines in support of the National Ignition Facility's (NIF) mission-critical laser optics programs at LLNL
